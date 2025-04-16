@@ -31,5 +31,8 @@
     "@types/node": "^20.0.0",
     "@types/vscode": "^1.80.0",
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
   }
 }
