@@ -1,0 +1,11 @@
+This is a sample text file.
+
+TODO: Implement this feature
+
+This line contains a console.log statement: console.log('Hello, world!');
+
+Nothing to see here.
+
+TODO: Fix this issue
+
+console.log('Debug message');
